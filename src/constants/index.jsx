@@ -123,8 +123,8 @@ import {
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js, Tailwind,Three.js and other related technologies.",
-        "Collaborating with Friends including Teaches to create high-quality products.",
+        "Developing and maintaining web applications using React.js, Tailwind,Three.js.",
+        "Collaborating with Project Groups including Teachers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
@@ -136,7 +136,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining java applications using JDBC and other related technologies.",
+        "Developing and maintaining java applications using JDBC with Oracle.",
         "Used CRUD operations and also used JDBC following MVC model.",
         "Implementing responsive design and ensuring work efficiently.",
         "Participating in code reviews and providing constructive feedback to other teammates.",
